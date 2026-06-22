@@ -1,9 +1,9 @@
-# Bandit — Niveau 27 → 28
+# Bandit — Niveau 28 → 29
 
 ## 📌 Informations
 - **Plateforme :** OverTheWire
 - **Série :** Bandit
-- **Niveau :** 27 → 28
+- **Niveau :** 28 → 29
 - **Difficulté :** Débutant
 - **Date :** 21/06/2026
 
